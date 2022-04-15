@@ -1,0 +1,95 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0%;
+}
+
+body {
+  background-color: rgb(230, 247, 85);
+  text-align: center;
+  margin-bottom: 0;
+}
+
+h1 {
+  font-weight: bolder;
+  font-size: 50px;
+}
+
+img {
+  margin: 3vh;
+  width: 60%;
+  height: 60%;
+}
+
+p {
+  margin-bottom: 2.5%;
+  margin-top: 1.9%;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(236, 225, 62);
+  text-align: center;
+  overflow: hidden;
+}
+
+footer a {
+  float: left;
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 110%;
+  font-weight: bold;
+  width: 10%;
+  background-color: rgb(59, 64, 76);
+  color: white;
+}
+
+footer a:hover {
+  background-color: #28334aff;
+}
+
+p {
+  text-align: justify;
+  margin-right: 5%;
+  font-size: 1.5rem;
+}
+
+.top-row {
+  background-color: rgb(236, 225, 62);
+  padding: 2%;
+  text-align: center;
+  font-size: 30px;
+}
+
+.bottom-container {
+  display: flex;
+  justify-content: center;
+  background-color: #28334aff;
+  padding-bottom: 5%;
+  padding-top: 2%;
+}
+
+.bottom-container img {
+  width: auto;
+  height: 25vh;
+  border-radius: 5%;
+}
+
+#img-1 {
+  float: left;
+
+  margin: 2%;
+  margin-top: 0;
+
+  width: 50%;
+  height: auto;
+}
+
+#gif-1 {
+  width: 25%;
+  height: auto;
+}
